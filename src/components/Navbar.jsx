@@ -7,7 +7,7 @@ const Navbar = () => {
    <div className="">
       <div className="container mx-auto flex justify-between items-center py-4 px-6  border-[1px] border-b-stone-300 shadow-2xl">
         <div>
-          <img className="h-10 w-50 ml-20" src="src/components/Screenshot 2024-09-22 221848.png" alt="" />
+          <img className="h-10 w-50 ml-20" src="Screenshot 2024-09-22 221848.png" alt="" />
         </div>
         <nav className="space-x-20">
           <a href="/" className="text-gray-600 hover:text-green-600">Catalog</a>
